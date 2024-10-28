@@ -1,3 +1,7 @@
+/* Pratica 4 Adapter Method
+    Dupla: Igor Carvalho Braz -- RA: 42021158
+            Matheus Magalhães Alves Lopes -- RA: 4231922738*/ 
+
 public class Principal {
     public static void main(String[] args) {
         BuracoRedondo buraco = new BuracoRedondo(5);
